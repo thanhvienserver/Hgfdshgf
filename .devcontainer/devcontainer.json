@@ -1,0 +1,5 @@
+{
+  "name": "Python pyCraft Bot",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "postCreateCommand": "pip install pyCraft"
+} 
